@@ -81,6 +81,9 @@ More about:
 https://api.flutter.dev/flutter/widgets/Stack-class.html
 
 
+After the day 4 section, we will conduct a mock test about flutter where all the participants can make an app (UI) with all that we learned in flutter up until now.
+
+
 ### Day 5
 * Using List and Map
 * Using List-View builder and why?
